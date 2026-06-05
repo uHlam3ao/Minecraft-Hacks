@@ -1,1 +1,1 @@
-# im not responsible for wha you do with my code
+# im not responsible for what you do with my code
